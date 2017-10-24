@@ -3,6 +3,7 @@
  */
 public class SpecialPrice {
 
+    // POJO Class
     private int unitPrice;
     private int quantity;
     private int specialPrice;
