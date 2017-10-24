@@ -39,17 +39,17 @@ To use the source files, you will need to have Maven installed globally. Project
 * open the `CheckoutMultiPricedItemsTest.java` test class, run the test cases or run the whole class. This test class is design for getting the items total by their unit price and special price.
 
 ## Acknowledgments
-Developed by:
-* [Java]()      - Core Java with java 8 features
-* [Maven]()     - as a build tool
+Backend backed by:
+* [Java]()        - Core Java with java 8 features
+* [Maven 3.3]()   - as a build tool
 
 
 Tested by:
-* [JUnit]()     - Core testing lib
+* [JUnit 4]()     - Core testing lib
 
 
 Belt tool:
-* [IntelliJ]()  - as main IDE tool
-* [Git]()       - as version source control
-* [Github]()    - as repository platform
+* [IntelliJ]()    - as main IDE tool
+* [Git]()         - as version source control
+* [Github]()      - as repository platform
 
