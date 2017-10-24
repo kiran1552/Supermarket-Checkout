@@ -48,4 +48,5 @@ public class CheckoutMultiPricedItemsTest {
         //Then
         assertThat(checkOut.theTotal(), is(215));
     }
+
 }
